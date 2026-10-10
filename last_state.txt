@@ -1,0 +1,29 @@
+查询
+【CJ126961207DE】运单信息     件数:【1】
+第【1】票
+参考号
+跟踪号码
+渠道转单号
+目的地
+当地时间
+最新状态
+收件人
+VX5826HS
+CJ126961207DE
+FR
+2026-10-09 10:00:31
+转运中货物在清关【Customs clearance in progress】/
+Theo RICHARD
+【CJ126961207DE】追踪信息
+日期
+位置
+追踪记录
+2026-10-09 10:00:31		货物在清关【Customs clearance in progress】
+2026-10-08 15:28:28		拆板作业中，等待取货通知【Under destuffing, waiting for pickup instructions】
+2026-10-06 18:52:55		航班已起飞【The flight has taken off】
+2026-10-02 23:37:53		预计6号航班【Expect flight 6th】
+2026-09-29 17:11:39	CN	InTransit_PickedUp
+2026-09-29 17:10:37		货物电子信息已经收到
+2026-09-29 14:06:01	fr	the instruction data for this shipment have been provided by the sender to dhl electronically
+2026-09-29 09:10:41		shipment information received
+2026-09-28 23:28:08		The electronic information of the goods has been received
