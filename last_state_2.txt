@@ -1,5 +1,5 @@
 查询
-【CJ127648896DE】运单信息     件数:【】
+【CJ127648896DE】运单信息     件数:【1】
 第【1】票
 参考号
 跟踪号码
@@ -7,6 +7,14 @@
 当地时间
 最新状态
 收件人
+RD241400
 CJ127648896DE
-CJ127648896DE
-/
+FR
+2026-10-15 19:57:24
+收货Package received & scanned at warehouse/深圳
+RICHARD Theo
+【CJ127648896DE】追踪信息
+日期
+位置
+追踪记录
+2026-10-15 19:57:24	深圳	Package received & scanned at warehouse
