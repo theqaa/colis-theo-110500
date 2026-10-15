@@ -11,13 +11,18 @@
 VX5826HS
 CJ126961207DE
 FR
-2026-10-12 03:15:12
-转运中loaded to movement / tour vehicle/fr
+2026-10-13 12:23:00
+签收the shipment has been successfully delivered/lornay,fr
 Theo RICHARD
 【CJ126961207DE】追踪信息
 日期
 位置
 追踪记录
+2026-10-13 12:23:00	lornay,fr	the shipment has been successfully delivered
+2026-10-13 08:45:00	fr	loaded to movement / tour vehicle
+2026-10-13 07:45:00	fr	movement / tour vehicle arrived
+2026-10-12 21:54:00	fr	loaded to movement / tour vehicle
+2026-10-12 21:53:59	fr	unloaded from movement / tour vehicle
 2026-10-12 03:15:12	fr	loaded to movement / tour vehicle
 2026-10-12 03:14:27	lahr	the shipment has been processed in the destination parcel center
 2026-10-10 16:56:04	bremen plus	the shipment has been processed in the parcel center of origin
