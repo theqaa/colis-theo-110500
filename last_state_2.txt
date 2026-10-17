@@ -10,11 +10,12 @@
 RD241400
 CJ127648896DE
 FR
-2026-10-15 19:57:24
-收货Package received & scanned at warehouse/深圳
+2026-10-17 09:25:32
+出货Package departed from the warehouse/深圳
 RICHARD Theo
 【CJ127648896DE】追踪信息
 日期
 位置
 追踪记录
+2026-10-17 09:25:32	深圳	Package departed from the warehouse
 2026-10-15 19:57:24	深圳	Package received & scanned at warehouse
