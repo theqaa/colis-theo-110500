@@ -21,3 +21,5 @@ RICHARD Theo
 2026-10-17 09:27:21		出口清关完成 Export customs clearance completed
 2026-10-17 09:25:32	深圳	Package departed from the warehouse
 2026-10-15 19:57:24	深圳	Package received & scanned at warehouse
+2026-10-10 10:00:20	FR	The instruction data for this shipment have been provided by the sender to DHL electronically
+2026-10-10 06:04:26		Shipment information received
