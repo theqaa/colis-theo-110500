@@ -10,13 +10,15 @@
 RD241400
 CJ127648896DE
 FR
-2026-10-19 14:32:49
-转运中航班已起飞Flight has departed/
+2026-10-22 02:52:45
+转运中拆板中Dismantling the board/
 RICHARD Theo
 【CJ127648896DE】追踪信息
 日期
 位置
 追踪记录
+2026-10-22 02:52:45		拆板中Dismantling the board
+2026-10-21 19:52:34		航班已抵达Flight has arrived
 2026-10-19 14:32:49		航班已起飞Flight has departed
 2026-10-18 14:32:37		货物移交航司Shipment handover to airline
 2026-10-17 09:27:30		预计10-21号航班Expected flight on October 21st
