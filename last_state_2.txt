@@ -10,13 +10,14 @@
 RD241400
 CJ127648896DE
 FR
-2026-10-24 02:58:30
-转运中清关完成,等待提取Customs clearance completed pending scanning/
+2026-10-24 17:28:13
+转运中The shipment has been processed in the parcel center of origin/Staufenberg
 RICHARD Theo
 【CJ127648896DE】追踪信息
 日期
 位置
 追踪记录
+2026-10-24 17:28:13	Staufenberg	The shipment has been processed in the parcel center of origin
 2026-10-24 02:58:30		清关完成,等待提取Customs clearance completed pending scanning
 2026-10-22 02:52:45		拆板中Dismantling the board
 2026-10-21 19:52:34		航班已抵达Flight has arrived
